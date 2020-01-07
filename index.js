@@ -10,4 +10,4 @@ var filler = "Let's talk about"
 
 var topic = "space";
 
-var conversation = ${filler} + ${topic} + ".";
+var conversation = "${filler} + ${topic}.";
