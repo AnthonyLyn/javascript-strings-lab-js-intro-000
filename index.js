@@ -6,8 +6,6 @@ var specialGuest = "Neil deGrasse Tyson"
 
 var greetSpecialGuest = greeting2 + specialGuest + "!";
 
-var filler = 'Let\'s talk about'
-
 var topic = "space";
 
-var conversation = "${filler} ${topic}.";
+var conversation = 'Let\'s talk about ${topic}.';
